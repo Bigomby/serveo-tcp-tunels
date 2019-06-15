@@ -1,0 +1,9 @@
+{
+  "name": "rpi-remote-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2": "^0.8.4"
+  }
+}
